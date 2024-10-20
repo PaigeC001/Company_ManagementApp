@@ -32,3 +32,14 @@ The Company Management Application is a command-line tool designed to help busin
 
 - Install dependencies
   - npm install
+ 
+
+
+
+
+
+# Links
+
+- Walkthrough Video: https://new.express.adobe.com/publishedV2/urn:aaid:sc:US:e8cb40d8-c50b-41de-a018-041d1600285f?promoid=Y69SGM5H&mv=other
+
+-GitHub Repo: 
